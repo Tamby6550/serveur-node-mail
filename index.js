@@ -78,8 +78,7 @@ async function sendMail(file,nomfile,nom) {
 
 
 app.get("/", function (req, res) {
-  res.json({ status: "Tamby Arimisa sdkjf" });
-
+  res.json({ status: "RASOLONDRAIBE Tamby Arimsia" });
 });
 
 app.post("/send", function (req, res) {
